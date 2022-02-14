@@ -4,7 +4,12 @@ description: Problem set with solutions. Problem sets are courtesy of Mustafa Sa
   Kilic. Used with permission.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004/c29381feeed65893d254851dd8fe0386_hwIII1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: hwIII1.pdf
+type: OCWFile
 uid: c29381fe-eed6-5893-d254-851dd8fe0386
 ---
