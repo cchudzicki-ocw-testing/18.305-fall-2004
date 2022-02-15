@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: third1.pdf
-type: OCWFile
 uid: 39077b07-b41f-dd1f-0a5c-07141555913d
 ---

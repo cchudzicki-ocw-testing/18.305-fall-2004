@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 305exam.pdf
-type: OCWFile
 uid: 8d4b61c9-9ed5-7984-f183-4b695103bba9
 ---

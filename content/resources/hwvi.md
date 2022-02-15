@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: hwVI.pdf
-type: OCWFile
 uid: 0edd506b-839a-0ab4-2e74-aa763f830785
 ---

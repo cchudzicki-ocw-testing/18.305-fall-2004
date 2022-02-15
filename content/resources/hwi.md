@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: hwI.pdf
-type: OCWFile
 uid: 90dc98e1-2d43-a5ea-a89a-917e3aed23d1
 ---

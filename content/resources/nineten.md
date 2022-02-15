@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: nineten.pdf
-type: OCWFile
 uid: 252a381c-174f-e21a-39b5-9e15b9d173cd
 ---

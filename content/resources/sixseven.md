@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: sixseven.pdf
-type: OCWFile
 uid: bd77df12-8975-8c55-5d7f-ce884915379b
 ---

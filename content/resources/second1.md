@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: second1.pdf
-type: OCWFile
 uid: 09cfb5e3-efab-e59c-46bf-ebfcfaecf743
 ---

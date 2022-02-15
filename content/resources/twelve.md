@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: twelve.pdf
-type: OCWFile
 uid: 3477ac43-d18b-5f90-1fe9-bae124e85ce6
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: fourfive.pdf
-type: OCWFile
 uid: a5943300-068d-5992-266a-2ee2cf1b7787
 ---

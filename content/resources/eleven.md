@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: eleven.pdf
-type: OCWFile
 uid: cd6f937f-4b1c-78f8-d763-40ad7d03c973
 ---
